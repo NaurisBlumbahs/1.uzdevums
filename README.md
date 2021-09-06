@@ -2,6 +2,6 @@
 
 # Mani sauc Nauris Blumbahs
 
-# Man interesç videospçïu industrija
+# Man interese videospelu industrija
 
-# Ðobrîd mâcos par spçïu izstrâdâtâju un vçlos nostiprinât savus C# pamatus, lai varçtu prasmîgât programmçt savus spçïu projektus
+# Sobrid macos par spelu izstradataju un velos nostiprinat savus C# pamatus, lai varatu prasmigat programmet savus spelu projektus
